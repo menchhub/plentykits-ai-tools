@@ -1,1 +1,0 @@
-# plentykits-ai-tools

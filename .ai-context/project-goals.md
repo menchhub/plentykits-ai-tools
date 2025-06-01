@@ -1,0 +1,3 @@
+# Project Goals
+
+Develop a modular Elementor addon plugin called "PlentyKits"...

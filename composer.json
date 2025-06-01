@@ -1,0 +1,14 @@
+{
+  "name": "plentykits/ai-init",
+  "description": "CLI tool to scaffold .ai-context/ folder for Elementor plugin development",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "PlentyKits",
+      "email": "support@plentykits.com"
+    }
+  ],
+  "bin": ["bin/ai-init"],
+  "require": {}
+}
